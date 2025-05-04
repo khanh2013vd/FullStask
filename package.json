@@ -1,0 +1,27 @@
+{
+  "name": "full-backend",
+  "version": "1.0.0",
+  "description": "\"Fullstask Backend\"",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node sever.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanh2013vd/FullStask.git"
+  },
+  "keywords": [
+    "nodejs",
+    "reate"
+  ],
+  "author": "FullStask",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanh2013vd/FullStask/issues"
+  },
+  "homepage": "https://github.com/khanh2013vd/FullStask#readme",
+  "dependencies": {
+    "express": "5.1.0"
+  }
+}
