@@ -1,1 +1,4 @@
 node_modules
+#.env   không nên dung khi đi làm
+
+#.env.example dùng khi đi làm
